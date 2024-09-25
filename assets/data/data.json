@@ -15,44 +15,58 @@
     "about": "Estudiante de último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas trasmedia.",
     "technologies": [
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-unity-plain",
             "name": "Unity"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "Csharp"
+            "icon": "devicon-csharp-plain",
+            "name": "C#"
         },
         {
-            "icon": "devicon-devicon-plain",
-            "name": "UnrealEngine"
+            "icon": "devicon-unrealengine-plain",
+            "name": "Unreal Engine 5"
         },
         {
             "icon": "devicon-figma-plain",
             "name": "Figma"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-blender-original",
             "name": "Blender"
         },
         {
-            "icon": "devicon-devicon-plain",
+            "icon": "devicon-photoshop-plain",
             "name": "Photoshop"
         }
     ],
     "experience": [
         {
-            "icon": "terminal",
-            "title": "Metacortex",
-            "subtitle": "Programador",
-            "description": "Programo software respetable desde un cubículo.",
-            "date": "1999"
+            "icon": "speech",
+            "title": "Representante Estudiantil",
+            "subtitle": "Universidad Pontificia Bolivariana",
+            "description": "Representación de los estudiantes del pregrado de Ingeniería en Diseño de Entretenimiento Digital ante las directivas y docentes. Administración y creación de contenido para las redes sociales y canales de comunicación alternativos del pregado. Planeación e implementación de la estrategia de comunicación para el proceso de autoevaluación del pregado. Organización y gestión de eventos y salidas técnicas del pregado.",
+            "date": "2023"
         },
         {
-            "icon": "rabbit",
-            "title": "Nebuchadnezzar",
-            "subtitle": "El Elegido",
-            "description": "Me encargo de salvar el mundo.",
-            "date": "1999 - Actualidad"
+            "icon": "monitor-cog",
+            "title": "Monitor",
+            "subtitle": "Laboratorio de Experimentación TIC - Universidad Pontificia Bolivariana",
+            "description": "Cuidado, mantenimiento y préstamo de equipos cómo Computadores, Tablets, Gafas de Realidad Virtual. Capacitación y asesoría para el desarrollo en Unity y Blender.",
+            "date": "2022 - 2024"
+        },
+        {
+            "icon": "brain",
+            "title": "Monitor",
+            "subtitle": "Laboratorio de Psicología - Universidad Pontificia Bolivariana",
+            "description": "Diseño, desarrollo e implementación de pruebas psicotécnicas y de procesos cognitivos en E-prime 3.0 para el uso de los estudiantes de la facultad de psicología.",
+            "date": "2021 - 2022"
+        },
+        {
+            "icon": "camera",
+            "title": "Fotográfo",
+            "subtitle": "Independiente",
+            "description": "Cubrimiento de eventos sociales y culturales, sesiones para redes sociales.",
+            "date": "2018 - Actualidad"
         }
     ],
     "projects": [
@@ -93,20 +107,20 @@
     ],
     "training": [
         {
-            "icon": "backpack",
-            "title": "Central West Junior High",
-            "subtitle": "Una escuela",
-            "description": "Aprendí cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "icon": "graduation-cap",
+            "title": "Ingeniería en Diseño de Entretenimiento Digital",
+            "subtitle": "Universidad Pontificia Bolivariana",
+            "description": "Estudiante Distinguido (2023)",
+            "date": "2020 - Actualidad",
+            "certificate": "https://www.upb.edu.co/es/pregrados/ingenieria-diseno-entretenimiento-medellin"
         },
         {
             "icon": "graduation-cap",
-            "title": "Owen Patterson High",
-            "subtitle": "Otra escuela",
-            "description": "Aprendí más cosas.",
-            "date": "Indeterminado",
-            "certificate": "https://en.wikipedia.org/wiki/Neo_(The_Matrix)"
+            "title": "Fotografía para Industrias  Creativas",
+            "subtitle": "Universidad Pontificia Bolivariana",
+            "description": "Con enfoque en fotografía de moda y producto.",
+            "date": "2024 - Actualidad",
+            "certificate": "https://fondos.sapiencia.gov.co/convocatorias/frontend_talento_especializado/pdf_ruta/Fotografía%20para%20Industrias%20Creativas.pdf"
         }
     ],
     "extras": [
