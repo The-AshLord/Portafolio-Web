@@ -72,37 +72,37 @@
     "projects": [
         {
             "icon": "bar-chart-4",
-            "title": "Software random",
-            "subtitle": "Software propiedad de Metacortex",
-            "description": "Herramienta para hacer rico a otras personas.",
+            "title": "Noctanbus VR",
+            "subtitle": "Escape Room en Realidad Virtual",
+            "description": "Producto desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.",
             "technologies": [
                 {
-                    "icon": "devicon-python-plain",
-                    "name": "Python"
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
                 },
                 {
-                    "icon": "devicon-django-plain",
-                    "name": "Django"
+                    "icon": "devicon-csharp-plain",
+                    "name": "C#"
                 }
             ],
             "image": "/project_1.jpg",
-            "url": "https://matrix.fandom.com/wiki/MetaCortex",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://youtu.be/iAl6ntwBWMo?si=ClsbCoCyAKJQnPtS",
+            "github": "https://gitlab.com/realidadauyvr/realidadadvirtual"
         },
         {
             "icon": "bug-off",
-            "title": "Hackeo Matrix",
-            "subtitle": "Mi obra maestra",
-            "description": "Migración del Matrix al mundo real y hackeo del sistema ficticio para salvar a la humanidad.",
+            "title": "Ancestor's Legacy",
+            "subtitle": "Juego realizado durante la Global Game Jam 2023",
+            "description": "Bullet Heaven en el que recorres las raices de la historia de la humanidad mientras vas heredando poderes de tus ancestros.",
             "technologies": [
                 {
                     "icon": "devicon-devicon-plain",
-                    "name": "Binario"
+                    "name": "Script"
                 }
             ],
             "image": "/project_2.jpg",
-            "url": "https://matrix.fandom.com/wiki/Wiki",
-            "github": "https://github.com/thomasanderson"
+            "url": "https://v3.globalgamejam.org/2023/games/ancestors-legacy-8",
+            "github": "https://github.com/Gotensfer/ProyectoG"
         }
     ],
     "training": [
