@@ -15,27 +15,27 @@
     "about": "Estudiante de último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas trasmedia.",
     "technologies": [
         {
-            "icon": "unity",
+            "icon": "devicon-devicon-plain",
             "name": "Unity"
         },
         {
-            "icon": "csharp",
-            "name": "C#"
+            "icon": "devicon-devicon-plain",
+            "name": "Csharp"
         },
         {
-            "icon": "unrealengine",
-            "name": "Unreal Engine 5"
+            "icon": "devicon-devicon-plain",
+            "name": "UnrealEngine"
         },
         {
-            "icon": "figma",
+            "icon": "devicon-figma-plain",
             "name": "Figma"
         },
         {
-            "icon": "blender",
+            "icon": "devicon-devicon-plain",
             "name": "Blender"
         },
         {
-            "icon": "photoshop",
+            "icon": "devicon-devicon-plain",
             "name": "Photoshop"
         }
     ],
