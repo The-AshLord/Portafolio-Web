@@ -124,8 +124,31 @@
                 }
             ],
             "image": "/project_5.jpg",
-            "url": "https://v3.globalgamejam.org/2023/games/ancestors-legacy-8",
+            "url": "https://www.canva.com/design/DAGFJaOXWNE/CLd5mmq-xFsX5jrK2Lo6bA/view?utm_content=DAGFJaOXWNE&utm_campaign=designshare&utm_medium=link&utm_source=editor",
             "github": "https://github.com/Villegazs/GameStudiesLasMatas"
+        },
+        {
+            "icon": "gem",
+            "title": "GemaIQ",
+            "subtitle": "Prototipo AR de un Materilizador de Ideas",
+            "description": "Propuesta de App movil que por medio de realidad aumentada escanea una piedra preciosa y proyecta holográficamente la idea que tengas que pienses.",
+            "technologies": [
+                {
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "icon": "devicon-figma-plain",
+                    "name": "Figma"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Script"
+                }
+            ],
+            "image": "/project_6.jpg",
+            "url": "https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+            "github": "https://github.com/Pipe2303/MaterializadorIdeas"
         },
         {
             "icon": "sun",
