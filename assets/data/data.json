@@ -12,7 +12,7 @@
         "github": "https://github.com/The-AshLord",
         "likedin": "https://www.linkedin.com/in/nicolasvillav/"
     },
-    "about": "Estudiante de último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas trasmedia.",
+    "about": "Estudiante de último semestre de Ingeniería en Diseño de Entretenimiento Digital con énfasis desarrrollo de videojuegos, VR/AR, UX/UI, fotografía, producción audiovisual, y narrativas transmedia.",
     "technologies": [
         {
             "icon": "devicon-unity-plain",
@@ -71,7 +71,7 @@
     ],
     "projects": [
         {
-            "icon": "bar-chart-4",
+            "icon": "ghost",
             "title": "Noctanbus VR",
             "subtitle": "Escape Room en Realidad Virtual",
             "description": "Producto desarrollado en colaboración con los chicos de Diseño Grafico como uno de sus entregables de la Materia Taller 5.",
@@ -90,11 +90,15 @@
             "github": "https://gitlab.com/realidadauyvr/realidadadvirtual"
         },
         {
-            "icon": "bug-off",
+            "icon": "scroll-text",
             "title": "Ancestor's Legacy",
             "subtitle": "Juego realizado durante la Global Game Jam 2023",
             "description": "Bullet Heaven en el que recorres las raices de la historia de la humanidad mientras vas heredando poderes de tus ancestros.",
             "technologies": [
+                {
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
+                },
                 {
                     "icon": "devicon-devicon-plain",
                     "name": "Script"
@@ -103,6 +107,59 @@
             "image": "/project_2.jpg",
             "url": "https://v3.globalgamejam.org/2023/games/ancestors-legacy-8",
             "github": "https://github.com/Gotensfer/ProyectoG"
+        },
+        {
+            "icon": "sprout",
+            "title": "Las Matas que Matan",
+            "subtitle": "Juego de peleas entre Plantas",
+            "description": "Juego PvP local con mécanicas de riesgo/recompensa donde las plantas que se han desarrollado por encima de lo que conocemos, tienen que adaptarse a lo poco que queda, sin darse el lujo de compartir ni un solo nutriente.",
+            "technologies": [
+                {
+                    "icon": "devicon-unity-plain",
+                    "name": "Unity"
+                },
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Script"
+                }
+            ],
+            "image": "/project_5.jpg",
+            "url": "https://v3.globalgamejam.org/2023/games/ancestors-legacy-8",
+            "github": "https://github.com/Villegazs/GameStudiesLasMatas"
+        },
+        {
+            "icon": "sun",
+            "title": "Shedding Shadows",
+            "subtitle": "Proyecto Transmedia",
+            "description": "Planteamiento y prototipo de un proyecto transmedia original para empatizar a los jóvenes sobre las dificultades de vivir con depresión y desmitificar la salud mental.",
+            "technologies": [
+                {
+                    "icon": "devicon-devicon-plain",
+                    "name": "Script"
+                },
+                {
+                    "icon": "devicon-figma-plain",
+                    "name": "Figma"
+                }
+            ],
+            "image": "/project_4.jpg",
+            "url": "https://upbeduco-my.sharepoint.com/:f:/g/personal/nicolas_villa_upb_edu_co/EgJW4WyLS_tLnlMilgr0RUEBC5Ck3gPBqY6zc31iQLnzAg?e=WgBkFO",
+            "github": "https://github.com/danielarango32/Transdmedia"
+        },
+        {
+            "icon": "map-pin",
+            "title": "Parches",
+            "subtitle": "Proyecto UX/UI",
+            "description": "App que permite conocer la agenda cultural y gastronomica de la ciudad de Medellín, suministrando la información necesaria para planear y ejecutar de manera exitosa sus parches (reunuines).",
+            "technologies": [
+                {
+                    "icon": "devicon-figma-plain",
+                    "name": "Figma"
+                }
+            ],
+            "image": "/project_3.jpg",
+            "url": "https://www.figma.com/proto/GnXYTLZ6Vd425YGyOO9zBI/UI%2FUX-Portafolio-Nicol%C3%A1s-Villa?node-id=103-12&node-type=canvas&t=wNHEYTALhx4kZkgI-0&scaling=scale-down-width&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=103%3A12"
+
         }
     ],
     "training": [
@@ -126,21 +183,21 @@
     "extras": [
         {
             "image": "/extra_1.jpg",
-            "title": "The Matrix",
-            "description": "Aparecí en esta película.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix"
+            "title": "Nota Peridistica",
+            "description": "Entrevista para Teleantioquia sobre la Global Game Jam 2023.",
+            "url": "https://m.youtube.com/live/gORAqPSM3kE?feature=share&t=3177&fbclid=PAZXh0bgNhZW0CMTEAAaa_zDHo5kLxlHlmZb05J_eUWPBfuP-AOhudQXMzMjX1sk1HZvzT16q8hYw_aem_GBOVEAFEM6y45ofrX8TW9g"
         },
         {
             "image": "/extra_2.jpg",
-            "title": "The Matrix Reloaded",
-            "description": "Y en esta otra.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Reloaded"
+            "title": "DEX",
+            "description": "Campaña dirigida y grabada para las muestras finales del pregado, DEX; en el instagram del pregado",
+            "url": "https://www.instagram.com/reel/CrmKLeoNJan/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA=="
         },
         {
             "image": "/extra_3.jpg",
-            "title": "The Matrix Revolutions",
-            "description": "Y en esta más.",
-            "url": "https://en.wikipedia.org/wiki/The_Matrix_Revolutions"
+            "title": "Terreno Interactivo",
+            "description": "Demo Técnica de un mapa de elevación interactivo Realizado en Unity",
+            "url": "https://github.com/jfUPB/evaluaciones-2023-20-The-AshLord/tree/main/01ruido"
         }
     ]
 }
