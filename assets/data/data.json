@@ -48,7 +48,7 @@
             "date": "2023"
         },
         {
-            "icon": "monitor-cog",
+            "icon": "monitor",
             "title": "Monitor",
             "subtitle": "Laboratorio de Experimentación TIC - Universidad Pontificia Bolivariana",
             "description": "Cuidado, mantenimiento y préstamo de equipos cómo Computadores, Tablets, Gafas de Realidad Virtual. Capacitación y asesoría para el desarrollo en Unity y Blender.",
@@ -147,7 +147,7 @@
                 }
             ],
             "image": "/project_6.jpg",
-            "url": "https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=editor",
+            "url": "https://www.canva.com/design/DAF0J7PyXa0/wDjVUT_D_bv7aQTjgg2oGA/view?utm_content=DAF0J7PyXa0&utm_campaign=designshare&utm_medium=link&utm_source=mo",
             "github": "https://github.com/Pipe2303/MaterializadorIdeas"
         },
         {
